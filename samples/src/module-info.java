@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Min
+ *
+ */
+module samples {
+}
